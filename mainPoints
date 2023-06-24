@@ -1,0 +1,48 @@
+things that i should take care of : 
+
+1. Data Cleaning and Preprocessing
+-> Handling missing data
+-> Dealing with outliers 
+-> Addressing Data Inconsistencies 
+-> Feature Scaling 
+-> Normalization
+-> Feature Engineering 
+
+Tools : Python's Pandas Library 
+
+
+2. Machine Learning Concepts and Algorithms
+-> Supervised Learning 
+-> Unsupervised Learning 
+-> Regression
+-> Classification
+-> Clustering 
+-> Linear Regression
+-> Decision Trees 
+-> Random Forests 
+-> Support Vector Machines
+-> Model Evaluation
+->Performance Metrics
+-> Cross-Validation Techniques 
+
+Tools : scikit-learn , TensorFlow
+
+
+3. Time Series Analysis 
+-> Autoregressive Integrated Moving Average (ARIMA)
+-> Exponential Smoothing
+-> Seasonal Decomposition
+-> Seasonality, Trends, Forecasting 
+
+Tools : statsmodels, Prophet
+
+
+Books :
+1. Python for Data Analysis by Wes McKinney
+2. Hands-On Machine Learning with Scikit-Learn and TensorFlow by Aurelien Geron
+
+
+Projects Ideas :
+1. Usage Prediciton Model using historical data 
+2. Demand forecasting system 
+3. Visualization dashboard to monitor inventory
